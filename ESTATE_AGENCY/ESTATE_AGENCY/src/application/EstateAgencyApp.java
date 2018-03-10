@@ -8,6 +8,7 @@ public class EstateAgencyApp {
 		
 		EstateAgency estateAgency = new EstateAgency();
 		estateAgency.start();
+		System.out.println("terminated.");
 
 	}
 	
