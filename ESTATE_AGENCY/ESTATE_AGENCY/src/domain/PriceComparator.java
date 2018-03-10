@@ -1,6 +1,7 @@
 /*Comparator class to comrate
 *two house objects by their price
 */
+
 package domain;
 
 import java.util.Comparator;
