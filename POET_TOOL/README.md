@@ -1,4 +1,4 @@
-##POET MANIPULATION TOOL ALLOWS THE FOLLOWING OPERATIONS FROM THE MENU
+## POET MANIPULATION TOOL ALLOWS THE FOLLOWING OPERATIONS FROM THE MENU
 
 ------------Menu------------
 
@@ -13,6 +13,7 @@
 5.Find Acrostics
 
 6.Retrieve poet by poetOrder in the file
+
 ---------------------------
 
 on the "poets.txt" file.
